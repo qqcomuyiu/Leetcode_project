@@ -1,0 +1,18 @@
+.movies {
+    float: right;
+    width: 25%;
+}
+.books {
+    float: left;
+    width: 25%;
+}
+
+.TV {
+    float: right;
+    width: 25%;
+}
+
+.Albums {
+   float: left;
+   width: 25%; 
+}

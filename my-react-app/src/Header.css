@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(6, 28, 28);
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+}
+
+header{
+    background-color: azure;
+    text-decoration: none;
+}
+
+.site-title {
+    text-decoration: none;
+}
+
+header:hover {
+    background-color: white;
+}
