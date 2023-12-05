@@ -90,6 +90,7 @@ function Art(){
 
    return( 
       <>
+      <h2>BLAh</h2>
       <h1> Art</h1>
       {Add()}
       <h1> My art</h1>
