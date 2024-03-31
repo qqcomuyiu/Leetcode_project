@@ -8,7 +8,7 @@ import { Link} from "react-router-dom"
 function Header(){
     return (
         <header>
-            <Link to="/" className="site-title"> Site Name</Link>
+            <Link to="/" className="site-title"> NYC Transit App</Link>
             <Navbar/>
         </header>
     );
