@@ -1,0 +1,6 @@
+Flask
+Flask-SocketIO
+websocket-client
+protobuf==3.19.4
+gtfs-realtime-bindings
+requests
